@@ -1,5 +1,8 @@
 _repo: The-Bee-No-30-Thursday-July-25-1901_74702
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74702-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '57608'
     url: http://www.gutenberg.org/2009/agents/57608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74702#The-Bee-No-30-Thursday-July-25-1901
 gutenberg_issued: '2024-11-07'
 gutenberg_type: Text
 identifiers:
